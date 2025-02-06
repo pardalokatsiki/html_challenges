@@ -1,0 +1,18 @@
+main, header, footer{
+  width: 70%;
+  margin: auto;
+}
+
+header, footer {
+  text-align: center;
+}
+
+header > img {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+section#night-2 {
+  text-align: right;
+}
