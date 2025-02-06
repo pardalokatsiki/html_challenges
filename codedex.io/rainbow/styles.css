@@ -1,0 +1,11 @@
+#first-color { /* color by name */
+  color: indigo;
+}
+
+#second-color { /* color by RGB */
+  color: rgb(143, 0, 255);
+}
+
+#third-color { /* color by hexadecimal value */
+  color: #0000FF;
+}
