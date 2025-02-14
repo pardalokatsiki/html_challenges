@@ -1,0 +1,19 @@
+div#outer {
+  width:500px;
+  height: 500px;
+  background-color: mediumpurple;
+}
+
+div#inner{
+  width: 400px;
+  height: 400px;
+  background-image: url('https://i.pinimg.com/236x/25/af/a5/25afa50a9e6cca6b253500744379b9e5.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+div#inner>p{
+  text-align: center;
+  text-decoration: underline;
+  font-size: 200%;
+}
